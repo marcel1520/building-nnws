@@ -6,4 +6,4 @@ Link to the Video Series ->
 https://www.youtube.com/watch?v=zrKpz9-AZ_E&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 
 All credit goes to the original author Vizuara AI Labs.  
-I do not claim ownership of the course content — this repository is only supposed to reflects my personal practice and learning.
+I do not claim ownership of the content — this repository is only supposed to reflects my personal practice and learning.
